@@ -1,0 +1,25 @@
+
+
+html {
+    background-color: pink;
+}
+
+
+h1 {
+    border: 5px solid black;
+}
+
+textarea {
+    border: 2px dotted red;
+    
+}
+p {
+    color:blue;
+}
+
+form {
+    color: purple;
+     font-style: italic;
+  
+}
+
